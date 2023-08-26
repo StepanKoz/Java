@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Classik {
+public class Classik {
+    private int counter;
 }

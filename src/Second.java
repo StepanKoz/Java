@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Second {
+public class Second {
+     public String name;
 }
